@@ -4,9 +4,11 @@
 
 - https://help.tableau.com/current/pro/desktop/en-us/buildexamples_scatter.htm
 
+![Texto](https://help.tableau.com/current/pro/desktop/en-us/Img/build_scatter2.gif)
 
-![texto del vínculo](https://help.tableau.com/current/pro/desktop/en-us/Img/build_scatter2.gif)
----
+![texto del vínculo](build_scatter2.gif)
+
+
 
 # Crear un gráfico de barras
 - https://help.tableau.com/current/prodesktop/en-us/buildexamples_bar.htm
@@ -56,14 +58,14 @@
 # Creación de un gráfico circular
 - https://help.tableau.com/current/pro/desktop/en-us/buildexamples_pie.htm
 
-![texto del vínculo](https://help.tableau.com/current/pro/desktop/en-us/Img/piechart-checkwork.gif)
+![texto del vínculo](piechart-checkwork.gif)
 
 
 # Construir un mapa de árbol
 
 https://help.tableau.com/current/pro/desktop/en-us/buildexamples_treemap.htm
 
-![texto del vínculo](https://help.tableau.com/current/pro/desktop/en-us/Img/treemapchart1.gif)
+![texto del vínculo](treemapchart1.gif)
 
 # Construir un gráfico de pareto
 
